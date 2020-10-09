@@ -1,6 +1,6 @@
 # DayPlanner
 
-_Link to the launched site (here)[https://rubixcubed39.github.io/DayPlanner/]_
+_Link to the launched site [here](https://rubixcubed39.github.io/DayPlanner/)_
 
 ## Table of Contents
 
